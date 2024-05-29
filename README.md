@@ -3,4 +3,7 @@ Object Detection model in the field of Computer Vision . Using Python
 
 
 
-<iframe src="https://drive.google.com/file/d/1v9nDgi_WT-S-EUIukKgSpPOPhZ3zuyaD/preview" width="640" height="480"></iframe>
+<video controls>
+  <source src="https://drive.google.com/uc?export=download&id=1v9nDgi_WT-S-EUIukKgSpPOPhZ3zuyaD" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
