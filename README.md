@@ -3,4 +3,3 @@ Object Detection model in the field of Computer Vision . Using Python
 
 
 
-![Uploading Object detection.png…]()
