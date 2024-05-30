@@ -33,3 +33,6 @@ Similarly, users can upload a video file to the project. The YOLO model processe
 # Conclusion
 This project demonstrates a powerful application of object detection in images and videos using YOLO models. By leveraging Python and essential libraries such as OpenCV, Matplotlib, and Ultralytics YOLO, the project achieves real-time object detection with high accuracy. Users can interact with the project by uploading their own images and videos, providing a hands-on experience of modern computer vision techniques.
 
+# Additional Information
+For detailed instructions on how to run the project, please refer to the readme_EN.docx file included in the repository.
+
