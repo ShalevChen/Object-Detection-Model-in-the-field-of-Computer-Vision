@@ -29,6 +29,9 @@ The project allows users to upload an image file and perform object detection on
 Video Detection:
 Similarly, users can upload a video file to the project. The YOLO model processes each frame of the video to detect and classify objects. The output is a video file with bounding boxes and labels on detected objects in each frame.
 
+Object Recognition:
+The YOLO models are capable of detecting and classifying a variety of objects:
+Pedestrians,Traffic lights,Cars,Bicycles,Trucks,Traffic signs,Animals ,And more
 
 # Conclusion
 This project demonstrates a powerful application of object detection in images and videos using YOLO models. By leveraging Python and essential libraries such as OpenCV, Matplotlib, and Ultralytics YOLO, the project achieves real-time object detection with high accuracy. Users can interact with the project by uploading their own images and videos, providing a hands-on experience of modern computer vision techniques.
